@@ -4253,7 +4253,7 @@
                width="977.21497"
                id="rect2619-5-42" /></flowRegion><flowPara
              id="flowPara2633-5"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Treat study elements as modular, reusable components that are tracked in individuell connected datasets — or the dark side will ravage your productivity!</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Treat study elements as modular, reusable components that are tracked in individual, connected datasets — or the dark side will ravage your productivity!</flowPara></flowRoot>      </g>
     </g>
     <path
        inkscape:connector-curvature="0"
@@ -6421,7 +6421,7 @@
                width="226.86426"
                id="rect2078" /></flowRegion><flowPara
              id="flowPara2084"
-             style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Lightweight dataset representations with information on data identity and data availability, without actual data content.</flowPara></flowRoot>        <rect
+             style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Lightweight dataset representations with information on data identity and data availability, without actual data content</flowPara></flowRoot>        <rect
            style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect2100"
            width="11.59514"
@@ -7189,7 +7189,7 @@
                x="-44.74361"
                y="-242.31773"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.34582615px;line-height:52.99999714%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:end;text-anchor:end;fill:white;stroke-width:0.65330249px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-               id="tspan38283">environment</tspan></text>
+               id="tspan38283">environments</tspan></text>
           <text
              transform="matrix(1.0872452,-0.52097675,0.35405797,0.75010128,0,0)"
              xml:space="preserve"
@@ -7393,7 +7393,7 @@
           <g
              style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
              id="g2793"
-             transform="matrix(0.26458333,0,0,0.26458333,-542.8543,-732.79774)">
+             transform="matrix(0.26619142,0,0,0.26443761,-542.60184,-732.77498)">
             <path
                d="m 21.191,19.207 c 0,0 717.24,-1.262 715.98,-1.262 -1.26,0 -1.26,276.36 -1.26,276.36 H 11.334633 L 9.295769,270.02547 -118.11409,135.10309 21.191,234.11086 21.187,19.205 Z"
                style="fill:black;fill-opacity:0.49803999;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;filter:url(#filter3746-1-7)"
@@ -7504,7 +7504,7 @@
           <g
              style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
              id="g2629"
-             transform="translate(-16.404167)">
+             transform="translate(-18.520835)">
             <g
                style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                id="g2617"
@@ -7519,11 +7519,11 @@
                    style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    y="2408.8582"
                    x="-863"
-                   height="343.49323"
-                   width="977.21497"
+                   height="348.51837"
+                   width="1009.4581"
                    id="rect2619" /></flowRegion><flowPara
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:89.99999762%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                 id="flowPara2625">Track all input data, code, and computational environment needed to produce analysis outputs in version controlled datasets — and reproducibility you will achieve!</flowPara></flowRoot>          </g>
+                 id="flowPara2625">Track all input data, code, and computational environments needed to produce analysis outputs in version controlled datasets — and reproducibility you will achieve!</flowPara></flowRoot>          </g>
         </g>
       </g>
     </g>
@@ -7563,7 +7563,7 @@
              y="3119.8582"
              style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></flowRegion><flowPara
            style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           id="flowPara2642">Dataset structure is fully flexible to be able to accommodate domain standard (e.g. BIDS). Element location/name can be discovered from configuration.</flowPara></flowRoot>      <rect
+           id="flowPara2642">Dataset structure is fully flexible to be able to accommodate domain standards (e.g. BIDS). Element location/name can be discovered from configuration.</flowPara></flowRoot>      <rect
          y="-137.32922"
          x="283.9649"
          height="54.730614"
@@ -7632,7 +7632,7 @@
              y="3119.8582"
              style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></flowRegion><flowPara
            style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           id="flowPara2084-0-9">DataLad can obtain required subdataset content on demand. Only content elements actually required for an analysis are present, directory structure is expanded recursively as needed.</flowPara></flowRoot>    </g>
+           id="flowPara2084-0-9">DataLad can obtain required subdataset content on demand. Only content elements actually required for an analysis are present. Directory structure is expanded recursively as needed.</flowPara></flowRoot>    </g>
     <g
        id="g2727"
        transform="matrix(0.60130997,0,0,0.6170122,530.9615,-569.39518)"
@@ -7748,7 +7748,7 @@
              width="333.86426"
              id="rect2751" /></flowRegion><flowPara
            id="flowPara2755"
-           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Any input data is referenced via the dataset that contain it. Dataset state provide unambi-guous version specification for any data dependency.</flowPara></flowRoot>      <rect
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Any input data is referenced via the dataset that contains it. Dataset state provides unambi-guous version specification for any data dependency.</flowPara></flowRoot>      <rect
          style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2759"
          width="11.595154"
@@ -7817,6 +7817,6 @@
              width="327.24042"
              id="rect2777" /></flowRegion><flowPara
            id="flowPara2781"
-           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Test scripts can be used to correct analysis code fnction, verify data integrity, or computational reproducibility.</flowPara></flowRoot>    </g>
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Test scripts can be used to check analysis code, verify data integrity, and assess computational reproducibility.</flowPara></flowRoot>    </g>
   </g>
 </svg>
