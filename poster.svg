@@ -1877,7 +1877,7 @@
            y="-664.32599"
            x="70.921997"
            id="tspan9209"
-           sodipodi:role="line">use well defined, portable computational environments to compute analysis results </tspan></text>
+           sodipodi:role="line">use well-defined, portable computational environments to compute analysis results </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.71249485px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:0.38849977px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
@@ -1890,7 +1890,7 @@
            y="-647.35425"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px">exhaustively track <tspan
    id="tspan9450"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Semi-Bold'">ALL</tspan> analysis inputs in the same version control control system</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Semi-Bold'">ALL</tspan> analysis inputs in the same version control system</tspan><tspan
            id="tspan9217"
            sodipodi:role="line"
            x="72.509491"
@@ -1944,7 +1944,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px"
            y="-550.17126"
            x="76.742828"
-           sodipodi:role="line">components to facilitate re-use within or outside the context of the</tspan><tspan
+           sodipodi:role="line">components to facilitate reuse within or outside the context of the</tspan><tspan
            id="tspan9253"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px"
            y="-536.92786"
