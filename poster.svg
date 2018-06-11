@@ -1511,9 +1511,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="1113.668"
-     inkscape:cy="1938.0577"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="1282.1394"
+     inkscape:cy="1956.0829"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2112,30 +2112,30 @@
     <text
        id="text4338"
        y="-826.50476"
-       x="456.55081"
+       x="457.56641"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.4308753px;line-height:0%;font-family:Carlito;-inkscape-font-specification:'Carlito, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
        xml:space="preserve"><tspan
          y="-826.50476"
-         x="456.55081"
+         x="457.56641"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.44659996px;line-height:125%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
          id="tspan10130">YODA: YODA’s Organigram on Data Analysis</tspan></text>
     <text
        id="text4344"
-       y="-798.51715"
-       x="460.97192"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
+       y="-798.3916"
+       x="457.23434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.04520249px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:0.25376686;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
        xml:space="preserve"><tspan
-         y="-798.51715"
-         x="460.97195"
+         y="-798.3916"
+         x="457.23434"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.44238567px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97460747px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-width:0.25376686;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
          id="tspan44061">Michael Hanke, Kyle A. Meyer, Matteo Visconti di Oleggio Castello, Benjamin Poldrack &amp; Yaroslav O. Halchenko</tspan><tspan
          id="tspan4362"
-         y="-784.21417"
-         x="462.78214"
+         y="-784.67334"
+         x="458.97055"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.44238567px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"> </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.97460747px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-width:0.25376686;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"> </tspan></text>
     <image
        y="-798.6745"
        x="88.598969"
@@ -8244,6 +8244,51 @@
            transform="scale(-1.0129725,0.98719363)"><tspan
              sodipodi:role="line"
              id="tspan2102"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.45947647px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke-width:0.68611646px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             x="-287.47"
+             y="-121.63206">i</tspan></text>
+      </g>
+      <g
+         id="g2097-9"
+         transform="matrix(0.63486236,0,0,0.63133173,-74.489154,-88.907483)"
+         style="stroke-width:0.73185754;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
+        <rect
+           y="-137.32928"
+           x="283.9649"
+           height="22.965179"
+           width="134.14832"
+           id="rect2090-9"
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:2.59319592;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           transform="matrix(0.44001156,0,0,0.42881379,-726.10666,-1468.145)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1.57954288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+           id="flowRoot2074-4"
+           xml:space="preserve"><flowRegion
+             style="line-height:89.99999762%;fill:#333;stroke-width:1.57954288px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             id="flowRegion2076-5"><rect
+               style="line-height:89.99999762%;fill:#333;stroke-width:1.57954288px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+               y="3119.8582"
+               x="2326"
+               height="43.762753"
+               width="348.26794"
+               id="rect2078-9" /></flowRegion><flowPara
+             id="flowPara2084-3"
+             style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-width:1.57954288px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">The Hidden Silo of Scarif</flowPara></flowRoot>        <rect
+           style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.59319592;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2100-5"
+           width="11.595154"
+           height="22.774544"
+           x="283.9649"
+           y="-137.32922" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.45947647px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:0.68611646px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+           x="-287.47"
+           y="-121.63206"
+           id="text2104-7"
+           transform="scale(-1.0129725,0.98719363)"><tspan
+             sodipodi:role="line"
+             id="tspan2102-0"
              style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.45947647px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke-width:0.68611646px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
              x="-287.47"
              y="-121.63206">i</tspan></text>
