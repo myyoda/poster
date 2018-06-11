@@ -1428,33 +1428,6 @@
        x2="248.5"
        y2="363.44" />
     <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4800">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.6346346"
-         id="feGaussianBlur4802" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4269">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.5399921"
-         id="feGaussianBlur4271" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter3746">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.5873096"
-         id="feGaussianBlur3748" />
-    </filter>
-    <filter
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always"
        id="filter3746-1-7">
@@ -1537,10 +1510,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="1523.3791"
-     inkscape:cy="2634.0744"
+     inkscape:cx="1732.5137"
+     inkscape:cy="2200.6169"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3024"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1133"
@@ -2030,28 +2003,28 @@
     </g>
     <text
        id="text4338"
-       y="-813.27557"
+       y="-826.50476"
        x="456.55081"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.4308753px;line-height:0%;font-family:Carlito;-inkscape-font-specification:'Carlito, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
        xml:space="preserve"><tspan
-         y="-813.27557"
+         y="-826.50476"
          x="456.55081"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.44659996px;line-height:125%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
          id="tspan10130">YODA: YODA’s Organigram on Data Analysis</tspan></text>
     <text
        id="text4344"
-       y="-787.93378"
+       y="-798.51715"
        x="460.97192"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
        xml:space="preserve"><tspan
-         y="-787.93378"
+         y="-798.51715"
          x="460.97195"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.44238567px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
          id="tspan44061">Michael Hanke, Kyle A. Meyer, Matteo Visconti di Oleggio Castello, Benjamin Poldrack &amp; Yaroslav O. Halchenko</tspan><tspan
          id="tspan4362"
-         y="-773.6308"
+         y="-784.21417"
          x="462.78214"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.44238567px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"> </tspan></text>
@@ -2065,12 +2038,12 @@
        style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000" />
     <text
        id="text6764"
-       y="-743.07861"
+       y="-755.24951"
        x="439.63553"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
        xml:space="preserve"><tspan
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.32480621px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Italic';stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
-         y="-743.07861"
+         y="-755.24951"
          x="439.63553"
          id="tspan6766"
          sodipodi:role="line">Free software available at http://datalad.org</tspan></text>
@@ -2870,57 +2843,6 @@
          style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
          x="-220.13333"
          y="-239.80803" /></text>
-    <g
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-       id="g2153"
-       transform="matrix(0.26458333,0,0,0.26458333,-545.45531,-398.92164)">
-      <path
-         d="m 19.573,19.207 c 0,0 449.25,-1.262 447.98,-1.262 -1.26,0 -1.26,276.36 -1.26,276.36 h -189.29 l 157.74,160.26 -233.45,-159 -181.72,2.52 -0.002,-278.88 z"
-         style="fill:black;fill-opacity:0.49803999;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;filter:url(#filter4800)"
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path705" />
-      <path
-         d="M 5.01,6.262 C 5.01,6.262 454.25,5 452.99,5 c -1.26,0 -1.26,276.36 -1.26,276.36 H 262.44 L 420.18,441.63 186.72,282.63 5,285.15 5.005,6.26 Z"
-         style="fill:white;fill-rule:evenodd;stroke:black;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path552" />
-    </g>
-    <g
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-       id="g2213"
-       transform="matrix(0.26458333,0,0,0.26458333,-411.25069,-400.42844)">
-      <path
-         d="m 16.337,19.207 c 0,0 449.25,-1.262 447.99,-1.262 -1.26,0 -1.26,276.36 -1.26,276.36 h -189.29 l -31.55,147.65 -44.17,-146.39 -181.72,2.52 0.002,-278.88 z"
-         style="fill:black;fill-opacity:0.49803999;fill-rule:evenodd;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;filter:url(#filter4269)"
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path695" />
-      <path
-         d="M 5.01,6.262 C 5.01,6.262 454.25,5 452.99,5 c -1.26,0 -1.26,276.36 -1.26,276.36 H 262.44 L 230.89,429.01 186.72,282.63 5,285.15 5.005,6.26 Z"
-         style="fill:white;fill-rule:evenodd;stroke:black;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path552-7" />
-    </g>
-    <g
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-       id="g2273"
-       transform="matrix(0.26458333,0,0,0.26458333,-275.47896,-393.85354)">
-      <path
-         d="m 21.191,19.207 c 0,0 449.24,-1.262 447.98,-1.262 -1.26,0 -1.26,276.36 -1.26,276.36 h -189.29 l -224.62,153.95 148.9,-152.69 -181.71,2.52 -0.004,-278.88 z"
-         style="fill:black;fill-opacity:0.49803999;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;filter:url(#filter3746)"
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path700" />
-      <path
-         d="M 5.01,6.262 C 5.01,6.262 454.25,5 452.99,5 c -1.26,0 -1.26,276.36 -1.26,276.36 H 262.44 L 37.82,435.32 186.72,282.63 5,285.15 5.005,6.26 Z"
-         style="fill:white;fill-rule:evenodd;stroke:black;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path552-5" />
-    </g>
     <g
        id="g2783"
        transform="translate(-337.83713,265.4117)"
@@ -7808,5 +7730,28 @@
              sodipodi:role="line">YODA principles</tspan></text>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.54910851px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:red;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;"
+       x="37.199841"
+       y="-47.025986"
+       id="text3028"
+       transform="scale(0.48430986,2.0647938)"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:red;"
+         x="37.199841"
+         y="-47.025986">Possibly plug OpenNeuro and DataLad tandem?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.06189728px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:red;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;"
+       x="96.391685"
+       y="-587.11115"
+       id="text3032"><tspan
+         sodipodi:role="line"
+         id="tspan3030"
+         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:red;"
+         x="96.391685"
+         y="-587.11115">TODO</tspan></text>
   </g>
 </svg>
