@@ -1511,17 +1511,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="1282.1394"
-     inkscape:cy="1956.0829"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="880.25805"
+     inkscape:cy="2991.1769"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="954"
      inkscape:window-height="1133"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -8348,23 +8348,7 @@
            x="1899"
            y="1041.8583"
            style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></flowRegion><flowPara
-         id="flowPara2176" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2235"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,0,-892)"><flowRegion
-         id="flowRegion2237"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"><rect
-           id="rect2239"
-           width="896.61139"
-           height="649.12402"
-           x="-972.97894"
-           y="1171.8706"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></flowRegion><flowPara
-         id="flowPara2241"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">TODO:</flowPara><flowPara
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         id="flowPara2245">- subdatasets can be uninstalled and only be archived a single time regardless of how often they get used</flowPara></flowRoot>    <g
+         id="flowPara2176" /></flowRoot>    <g
        id="g2777"
        transform="translate(546.8584,161.26535)"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
@@ -10195,15 +10179,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.06189728px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:red;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;"
-       x="96.391685"
-       y="-587.11115"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.06189728px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:red;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+       x="-162.53903"
+       y="-596.09143"
        id="text3032"><tspan
          sodipodi:role="line"
          id="tspan3030"
-         style="stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:red;"
-         x="96.391685"
-         y="-587.11115">TODO</tspan></text>
+         style="fill:red;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+         x="-162.53903"
+         y="-596.09143">TODO</tspan></text>
     <g
        id="g2652-9"
        transform="matrix(0.60130997,0,0,0.6170122,-130.75093,-172.12038)"
@@ -10242,11 +10226,58 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.9548645px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
          x="279.64514"
-         y="-93.846046"
+         y="-97.321053"
          id="text2650-7"
          transform="scale(1.0129725,0.98719363)"><tspan
            sodipodi:role="line"
            id="tspan2648-4"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40.9548645px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           x="279.64514"
+           y="-97.321053">!</tspan></text>
+    </g>
+    <g
+       id="g2652-9-8"
+       transform="matrix(0.60130997,0,0,0.6170122,-130.75093,-405.61813)"
+       style="stroke-width:0.46333504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
+      <rect
+         y="-137.32928"
+         x="283.9649"
+         height="63.737663"
+         width="229.36963"
+         id="rect2636-1-1"
+         style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.44001156,0,0,0.42881379,-723.22156,-1472.1658)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+         id="flowRoot2644-5-9"
+         xml:space="preserve"><flowRegion
+           style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           id="flowRegion2640-4-9"><rect
+             style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             y="3119.8582"
+             x="2326"
+             height="150.63721"
+             width="474.13867"
+             id="rect2638-9-7" /></flowRegion><flowPara
+           id="flowPara2642-2-8"
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Subdataset references in a dataset are extreme lightweight, yet guarantee exhaustive data identity description via cryptographic hashes.</flowPara><flowPara
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           id="flowPara9043">Subdatasets can be detached without loosing this information, yielding massively improved storage efficiency, and reduce archive costs.</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2646-5-5"
+         width="11.595154"
+         height="63.306889"
+         x="283.9649"
+         y="-137.32922" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.9548645px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+         x="279.64514"
+         y="-93.846046"
+         id="text2650-7-3"
+         transform="scale(1.0129725,0.98719363)"><tspan
+           sodipodi:role="line"
+           id="tspan2648-4-4"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40.9548645px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
            x="279.64514"
            y="-93.846046">!</tspan></text>
