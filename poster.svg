@@ -1511,11 +1511,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="880.25805"
-     inkscape:cy="2991.1769"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="2326.8889"
+     inkscape:cy="953.05602"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g21113"
      showgrid="false"
      inkscape:window-width="954"
      inkscape:window-height="1133"
@@ -1625,6 +1625,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,892)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:4.00000019, 2.0000001;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2822"
+       sodipodi:type="arc"
+       sodipodi:cx="435.43298"
+       sodipodi:cy="-245.41156"
+       sodipodi:rx="51.001945"
+       sodipodi:ry="28.815062"
+       sodipodi:start="6.0955086"
+       sodipodi:end="6.0898028"
+       sodipodi:open="true"
+       d="m 485.53935,-250.78779 a 51.001945,28.815062 0 0 1 -40.51912,33.67761 51.001945,28.815062 0 0 1 -59.66626,-22.84441 51.001945,28.815062 0 0 1 40.34889,-33.74278 51.001945,28.815062 0 0 1 59.78138,22.74815" />
     <g
        transform="translate(84.297124,-30.69836)"
        id="g8948">
@@ -1747,20 +1759,8 @@
       </g>
     </g>
     <path
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:4.00000019, 2.0000001;stroke-dashoffset:0;stroke-opacity:1"
-       id="path2822"
-       sodipodi:type="arc"
-       sodipodi:cx="439.66629"
-       sodipodi:cy="-243.82408"
-       sodipodi:rx="56.293613"
-       sodipodi:ry="34.106728"
-       sodipodi:start="6.0955086"
-       sodipodi:end="6.0898028"
-       sodipodi:open="true"
-       d="m 494.97141,-250.18761 a 56.293613,34.106728 0 0 1 -44.72315,39.86224 56.293613,34.106728 0 0 1 -65.8569,-27.03962 56.293613,34.106728 0 0 1 44.53527,-39.93938 56.293613,34.106728 0 0 1 65.98395,26.92568" />
-    <path
        style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:4.00000006, 2.00000003;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 441.82292,-404.675 48.70219,145.75197"
+       d="m 441.82292,-404.675 41.59282,148.74539"
        id="path2843"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -6072,7 +6072,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2845"
-       d="m 131.43171,-324.6282 257.75799,96.66142"
+       d="m 131.43171,-324.6282 261.12559,95.53889"
        style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:4.00000006, 2.00000003;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <g
@@ -7605,7 +7605,7 @@
        id="g21113"
        style="stroke-width:0.46333504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
       <ellipse
-         ry="309.27551"
+         ry="329.57468"
          rx="489.56332"
          cx="644.71179"
          cy="461.61777"
@@ -8040,7 +8040,7 @@
            inkscape:connector-curvature="0"
            id="path4-6"
            style="display:inline;fill:#666;stroke-width:0.46333504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;filter:url(#filter12946-6)"
-           transform="matrix(0.36366951,-0.43687346,-0.46331267,-0.35456365,258.7304,1179.2097)"
+           transform="matrix(0.36366951,-0.43687346,-0.46331267,-0.35456365,213.31221,1188.3419)"
            sodipodi:nodetypes="ccsssccccccccccccccccccccccssssssssssscscs"
            inkscape:transform-center-x="12.890562"
            inkscape:transform-center-y="41.332443" />
@@ -10282,5 +10282,105 @@
            x="279.64514"
            y="-93.846046">!</tspan></text>
     </g>
+    <g
+       id="g2785-9"
+       transform="translate(-247.56706,620.01167)"
+       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
+      <g
+         style="stroke-width:0.46333504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+         transform="matrix(0.60130997,0,0,0.6170122,530.9615,-500.07436)"
+         id="g2775-0">
+        <rect
+           style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2767-2"
+           width="147.27954"
+           height="46.247726"
+           x="283.9649"
+           y="-137.32928" />
+        <rect
+           y="-137.32922"
+           x="283.9649"
+           height="45.388142"
+           width="11.595154"
+           id="rect2769-0"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           transform="scale(1.0129725,0.98719363)"
+           id="text2773-1"
+           y="-102.53358"
+           x="279.64514"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.9548645px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-102.53358"
+             x="279.64514"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40.9548645px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             id="tspan2771-9"
+             sodipodi:role="line">!</tspan></text>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2783-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,94.890748,-1408.397)"><flowRegion
+           id="flowRegion2779-2"
+           style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"><rect
+             id="rect2777-1"
+             width="298.24048"
+             height="136.51245"
+             x="2326"
+             y="3119.8582"
+             style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></flowRegion><flowPara
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           id="flowPara2781-2">Access control remains in the hands of the original data repository, for compliance with laws and regulations.</flowPara></flowRoot>    </g>
+    <g
+       id="g2785-9-0"
+       transform="translate(-90.251161,524.95228)"
+       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
+      <g
+         style="stroke-width:0.46333504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+         transform="matrix(0.60130997,0,0,0.6170122,530.9615,-500.07436)"
+         id="g2775-0-7">
+        <rect
+           style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2767-2-3"
+           width="134.95921"
+           height="73.262993"
+           x="283.9649"
+           y="-137.32928" />
+        <rect
+           y="-137.32922"
+           x="283.9649"
+           height="72.403404"
+           width="11.595154"
+           id="rect2769-0-1"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           transform="scale(1.0129725,0.98719363)"
+           id="text2773-1-1"
+           y="-86.896019"
+           x="279.64514"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.9548645px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-86.896019"
+             x="279.64514"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40.9548645px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             id="tspan2771-9-9"
+             sodipodi:role="line">!</tspan></text>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2783-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,94.890748,-1408.397)"><flowRegion
+           id="flowRegion2779-2-5"
+           style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"><rect
+             id="rect2777-1-6"
+             width="268.24048"
+             height="161.51245"
+             x="2326"
+             y="3119.8582"
+             style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></flowRegion><flowPara
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           id="flowPara2781-2-7">Unpopulated datasets offer comprehensive access to all data without having to host all data. Can track TBs with few MBs of metadata and availability information.</flowPara></flowRoot>    </g>
   </g>
 </svg>
