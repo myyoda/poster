@@ -1709,16 +1709,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="2194.7389"
-     inkscape:cy="2385.8346"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="1591.6678"
+     inkscape:cy="2876.7673"
      inkscape:document-units="mm"
      inkscape:current-layer="g3322-1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1359"
+     inkscape:window-width="1920"
+     inkscape:window-height="1133"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -1810,6 +1810,11 @@
        orientation="0,1"
        id="guide2588"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="364.06664,1121.3041"
+       orientation="0,1"
+       id="guide2596"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1828,45 +1833,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,892)">
+    <rect
+       style="opacity:1;fill:#62704d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33072916;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2673"
+       width="400.23422"
+       height="3.9188278"
+       x="40.265793"
+       y="-523.95105" />
     <g
        id="g2657"
        transform="translate(5.2916667)">
-      <g
-         style="fill:#62704d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;enable-background:new"
-         id="g1813"
-         transform="matrix(0,-0.26458333,0.26458333,0,27.547823,-531.63785)">
-        <g
-           id="g1811"
-           style="fill:#62704d;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
-             d="m -101.22994,1502.78 c 2.049998,-153.33 3.281998,-846.67 2.051998,-1000 C -100.08794,351.52 -103.28694,200.26 -111.25194,49.23 121.87806,44.013 474.202,42.733 706.022,18.841 l 8e-5,-9e-6 c -11.223,170.939999 -13.796,342.389999 -12.542,513.749999 v 1.6e-4 c 0.55397,166.97 4.8505,873.91005 8.2659,1040.88005 -106.59,-9.7692 -213.46,-16.478 -320.42,-21.15 -105.62,-4.9389 -211.33,-7.8473 -317.05,-8.6945 l 0.13642,-17.025 c 105.95,0.8489 211.88,3.7634 317.71,8.7125 104.07,7.5695 208.11,17.187 311.92,29.874 -6.5198,-164.02 -13.923,-868.17005 -17.585,-1032.50005 1.8616,-168.6 7.5702,-337.45 21.949,-505.949999 l -1.6e-4,1.6e-5 c -227.03,24.007 -573.91394,25.338 -800.96394,30.557 10.754998,148.390003 16.731999,296.920003 20.410999,445.370003 1.2306,153.51 -0.0016,846.97003 -2.0525,1000.36003 z m -13.32,-0.18 c 2.048,-153.28 3.28,-846.53 2.05,-999.71 1.257,-153.47 0.232,-306.87 -5.552,-459.95 237.89,-5.222 594.47394,-6.462 830.03394,-30.274 l 9e-5,-9e-6 c -8.7545,172.849999 -8.8739,346.329999 -5.1814,519.859999 v 1.6e-4 c -1.878,169.03 -0.012,878.16005 0.9742,1047.43005 -108.76,-7.4857 -217.85,-11.919 -327.07,-14.324 -105.44,-4.9309 -210.98,-7.8346 -316.54,-8.6804 l 0.07042,-8.788 c 105.67,0.8467 211.32,3.7535 316.88,8.6896 107.73,3.9004 215.36,9.8351 322.69,18.827 -2.5887,-167.75 -6.0582,-875.43005 -5.7845,-1043.11005 -2.0841,-172.1 -0.34613,-344.24 10.037,-515.829999 l -1.7e-4,1.6e-5 c -233.1,23.824 -586.87394,25.091 -821.62394,30.311 7.2231,151.720003 9.6823,303.710003 9.8546,455.730003 1.2297,153.28 -0.002,846.58003 -2.0512,999.90003 z"
-             style="fill:#62704d;fill-opacity:1;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path1809"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         style="fill:#333;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         transform="translate(-53.816218,137.50502)"
-         id="g3024">
-        <g
-           id="g3022"
-           transform="matrix(0.25508824,0,0,0.25508824,489.8069,-789.27181)"
-           style="fill:#333;fill-opacity:1;stroke-width:1.03722286;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333;fill-opacity:1;stroke:none;stroke-width:1.03722286;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
-             x="-784.78394"
-             y="-143.04164"
-             id="text3020"><tspan
-               sodipodi:role="line"
-               id="tspan3018"
-               x="-784.78394"
-               y="-143.04164"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Bold';fill:#333;fill-opacity:1;stroke-width:1.03722286;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000">YODA principles</tspan></text>
-        </g>
-      </g>
       <text
          id="text9211"
          y="-664.32599"
@@ -1881,19 +1857,19 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.71249485px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:0.38849977px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         x="72.509491"
+         x="71.411972"
          y="-647.35425"
          id="text9215"><tspan
            sodipodi:role="line"
            id="tspan9213"
-           x="72.509491"
+           x="71.411972"
            y="-647.35425"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px">Exhaustively track <tspan
    id="tspan9450"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Semi-Bold'">ALL</tspan> analysis inputs in the same version control system</tspan><tspan
            id="tspan9217"
            sodipodi:role="line"
-           x="72.509491"
+           x="71.411972"
            y="-634.11078"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px">as the computed results, including:</tspan></text>
       <text
@@ -1932,23 +1908,23 @@
       <text
          id="text9239"
          y="-563.41473"
-         x="76.742828"
+         x="71.520851"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.71249485px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:0.38849977px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px"
            y="-563.41473"
-           x="76.742828"
+           x="71.520851"
            sodipodi:role="line"
            id="tspan9237">Structure study elements (data, code, environments) in modular</tspan><tspan
            id="tspan9243"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px"
            y="-550.17126"
-           x="76.742828"
+           x="71.520851"
            sodipodi:role="line">components to facilitate reuse within or outside the context of the</tspan><tspan
            id="tspan9253"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88829803px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';fill:#333;fill-opacity:1;stroke-width:0.38849977px"
            y="-536.92786"
-           x="76.742828"
+           x="71.520851"
            sodipodi:role="line">original study</tspan></text>
       <g
          style="fill:#62704d;fill-opacity:1"
@@ -1963,7 +1939,7 @@
       <g
          style="fill:#62704d;fill-opacity:1"
          id="g9522"
-         transform="matrix(0.03637609,0,0,0.03637609,53.935427,-655.61997)">
+         transform="matrix(0.03637609,0,0,0.03637609,52.877093,-655.61997)">
         <path
            style="fill:#62704d;fill-opacity:1"
            id="path9520"
@@ -1972,7 +1948,7 @@
       </g>
       <g
          style="fill:#62704d;fill-opacity:1"
-         transform="matrix(0.03637609,0,0,0.03637609,56.316678,-571.48242)"
+         transform="matrix(0.03637609,0,0,0.03637609,52.877093,-571.48242)"
          id="g9526">
         <path
            style="fill:#62704d;fill-opacity:1"
@@ -3068,7 +3044,7 @@
        style="font-style:normal;font-weight:400;font-size:2.3812499px;font-family:'Sans Serif';fill:#999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1" />
     <g
        id="g13842"
-       transform="matrix(0.28783265,0,0,0.28783265,-381.35055,23.743739)"
+       transform="matrix(0.28783265,0,0,0.28783265,-378.7047,23.743739)"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
       <image
          style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -3103,7 +3079,7 @@
     </g>
     <g
        id="g22258"
-       transform="translate(-275.32795,-75.865127)"
+       transform="translate(-270.56542,-75.865127)"
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
       <g
          transform="matrix(0.07351957,0,0,0.07351957,840.30623,-796.72649)"
@@ -7813,26 +7789,26 @@
            transform="matrix(-1,0,0,1,754.35967,0)" />
         <path
            d="m 672.91423,-31.386233 -634.905021,-1.262 c 1.26,0 1.26,340.008233 1.26,340.008233 l 328.590041,0 94.51235,95.97725 -18.79235,-94.70725 229.34498,2.52 -0.005,-342.538233 z"
-           style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1"
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
            id="path3286-8" />
       </g>
       <flowRoot
          transform="matrix(0.18245652,0,0,0.18245652,797.09809,-547.76909)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;"
          id="flowRoot2627-2-8-3"
          xml:space="preserve"><flowRegion
-           style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1;"
            id="flowRegion2621-7-6-5"><rect
-             style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1;"
              y="2408.8582"
              x="-863"
              height="460.94003"
              width="856.85522"
              id="rect2619-5-42-5" /></flowRegion><flowPara
            id="flowPara2633-5-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Worry you need not about storage demand duplication and access permissions. Data/metadata access separation allows you to safely collaborate on individual aspects, far beyond Tatooine's borders.</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1;">Worry you need not about storage demand duplication and access permissions. Data/metadata access separation allows you to safely collaborate on individual aspects, far beyond Tatooine's borders.</flowPara></flowRoot>    </g>
     <path
        style="fill:url(#linearGradient4295);fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;fill-opacity:1"
        d="m 498.41843,-119.30679 c 22.9526,7.54063 37.37242,-9.44532 42.13492,2.52708 v -12.36371 c -4.0349,-7.01146 -7.46897,-1.26624 -11.96689,-4.04437 z"
@@ -8358,7 +8334,7 @@
                inkscape:connector-curvature="0"
                id="path2789" />
             <path
-               style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:10.02758026;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+               style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:10.02758026;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1"
                d="m 1189.1817,2012.8066 c 1.2676,0 -709.21686,1.2618 -709.21686,1.2618 l -0.004,-0 -0.006,193.4883 -123.86133,-91.7715 127.47266,126.1445 v 31.0957 l 704.34769,0 c 0,0 -10e-5,-260.2168 1.2676,-260.2168 z"
                transform="matrix(0.99395891,0,0,1.0005511,-472.05605,-1992.9167)"
                id="path2791"
@@ -8460,27 +8436,27 @@
             </g>
           </g>
           <g
-             style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"
              id="g2629"
              transform="translate(-18.520835)">
             <g
-               style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+               style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"
                id="g2617"
                transform="matrix(0.26458333,0,0,0.26458333,-525.96281,-733.12026)" />
             <flowRoot
                transform="matrix(0.18245652,0,0,0.18245652,-361.01823,-1161.4559)"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
                id="flowRoot2627"
                xml:space="preserve"><flowRegion
-                 style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                 style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"
                  id="flowRegion2621"><rect
-                   style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                   style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"
                    y="2408.8582"
                    x="-863"
                    height="346.46753"
                    width="982.79803"
                    id="rect2619" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:89.99999762%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:89.99999762%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"
                  id="flowPara2625">Track all input data, code, and computational environments needed to produce analysis outputs in version controlled datasets — and reproducibility you will achieve!</flowPara></flowRoot>          </g>
         </g>
       </g>
@@ -8686,7 +8662,7 @@
     <g
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
        id="g2857"
-       transform="matrix(0.05785723,0,0,-0.05785723,547.13713,-824.84829)">
+       transform="matrix(0.05373636,0,0,-0.05373636,551.32045,-824.31911)">
       <path
          d="m 879.238,332.676 h 26.68 l 65.879,-106.297 h 0.398 v 106.297 h 24.051 V 188.391 h -26.672 l -65.679,106.093 h -0.61 V 188.391 h -24.047 v 144.285"
          style="fill:#5c5e65;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -9925,18 +9901,12 @@
          id="tspan2626">at http://datalad.org</tspan></text>
     <g
        id="g3014"
-       transform="matrix(0.26468733,0,0,0.26468733,514.38008,-541.62438)"
+       transform="matrix(0.26468733,0,0,0.26468733,498.71416,-590.83685)"
        style="stroke-width:3.77804255;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-      <path
-         sodipodi:nodetypes="zzzsz"
-         inkscape:connector-curvature="0"
-         id="path2991"
-         d="m -337.4157,99.06789 c -159.77319,0.522351 -39.31599,-0.464952 -126.91855,-132.465914 -87.60256,-132.000966 30.77014,-140.038856 126.53132,-139.477906 95.76118,0.56095 199.75457,-0.51574 128.50735,136.171747 -75.2661,144.397703 31.65307,135.249722 -128.12012,135.772073 z"
-         style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77804255;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:3.77804248, 7.55608495;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          id="g1689"
          style="stroke-width:2.94268322;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         transform="matrix(1.2838768,0,0,1.2838768,-374.44472,1170.6368)">
+         transform="matrix(1.2838768,0,0,1.2838768,-379.44276,1144.647)">
         <g
            style="stroke-width:2.94268322;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
            id="g1649"
@@ -10047,30 +10017,30 @@
            id="path2791-8"
            transform="matrix(0.99395891,0,0,1.0005511,-472.05605,-1992.9167)"
            d="m 974.1817,2146.8066 c 1.2676,0 -494.21686,1.2618 -494.21686,1.2618 h -0.004 l -0.006,59.4883 -61.86133,-50.7715 65.47266,85.1445 v 31.0957 H 972.9139 c 0,0 1.14146,-124.9554 1.2676,-126.2168 z"
-           style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:10.02758026;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
+           style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:10.02758026;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1" />
       </g>
       <g
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"
          id="g3322-1-8"
          transform="translate(67.994656,-229.8793)">
         <g
            transform="matrix(0.26458333,0,0,-0.26458333,622.78483,-31.486225)"
            id="g3288-7-7"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
+           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1" />
         <flowRoot
            xml:space="preserve"
            id="flowRoot2627-2-8-3-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
            transform="matrix(0.18245652,0,0,0.18245652,789.68974,-545.65241)"><flowRegion
              id="flowRegion2621-7-6-5-2"
-             style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"><rect
+             style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"><rect
                id="rect2619-5-42-5-3"
                width="672.69037"
                height="137.5639"
                x="-863"
                y="2408.8582"
-               style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+               style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1"
              id="flowPara2633-5-6-7">Learn control you must. Size matters not!</flowPara></flowRoot>      </g>
     </g>
     <g
@@ -10859,25 +10829,59 @@
            transform="rotate(180,377.17984,155.99772)" />
         <path
            d="m 721.45577,304.07421 c 0,0 -677.635493,1.262 -676.375493,1.262 1.26,0 1.26,-276.36 1.26,-276.36 H 464.02577 l 286.51235,-97.977251 -210.79235,96.707251 181.72,-2.52 -0.005,278.89 z"
-           style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           style="fill:#e2eacd;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;stroke-opacity:1"
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
            id="path3286" />
       </g>
       <flowRoot
          transform="matrix(0.18245652,0,0,0.18245652,798.6856,-545.65241)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;"
          id="flowRoot2627-2-8"
          xml:space="preserve"><flowRegion
-           style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1;"
            id="flowRegion2621-7-6"><rect
-             style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             style="line-height:89.99999762%;text-align:justify;text-anchor:start;stroke-width:1.45011711px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1;"
              y="2408.8582"
              x="-863"
              height="343.49316"
              width="927.99634"
              id="rect2619-5-42" /></flowRegion><flowPara
            id="flowPara2633-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Treat study elements as modular, reusable components that are tracked in individual, connected datasets — or the dark side will ravage your productivity!</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1;">Treat study elements as modular, reusable components that are tracked in individual, connected datasets — or the dark side will ravage your productivity!</flowPara></flowRoot>    </g>
+    <g
+       id="g2662"
+       transform="translate(-59.107895,125.86334)"
+       style="fill:#333;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
+      <rect
+         y="-841.92188"
+         x="99.107895"
+         height="29.007959"
+         width="400.5"
+         id="rect2654"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33072916;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#62704d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33072916;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 99.107895,-814.91406 400.500005,0 v -24.98828 l -400.500005,0 z"
+         id="rect2690"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="fill:white;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+         transform="matrix(0.26458333,0,0,0.26458333,434.65803,-789.98599)"
+         id="g2660">
+        <text
+           id="text2658"
+           y="-122.54199"
+           x="-1004.4226"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond Bold';fill:white;fill-opacity:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:100000"
+             y="-122.54199"
+             x="-1004.4226"
+             id="tspan2656"
+             sodipodi:role="line">YODA principles</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
