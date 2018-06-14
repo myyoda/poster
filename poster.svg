@@ -1709,16 +1709,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="1591.6678"
-     inkscape:cy="2876.7673"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="977.55885"
+     inkscape:cy="1915.0011"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3322-1"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1133"
+     inkscape:window-width="2560"
+     inkscape:window-height="1359"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="44"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -10882,6 +10882,70 @@
              id="tspan2656"
              sodipodi:role="line">YODA principles</tspan></text>
       </g>
+    </g>
+    <g
+       id="g2709-3"
+       transform="translate(-821.22933,540.4957)"
+       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
+    <g
+       id="g2734"
+       transform="translate(159.51691,-4.4901276)">
+      <g
+         id="g2682-6"
+         transform="matrix(0.60130997,0,0,0.6170122,-290.26784,40.421353)"
+         style="stroke-width:0.46333504;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
+        <rect
+           y="-137.32928"
+           x="283.9649"
+           height="47.534164"
+           width="202.06097"
+           id="rect2666-7"
+           style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.6417383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2676-5"
+           width="11.595154"
+           height="47.317802"
+           x="283.9649"
+           y="-137.32922" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.9548645px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:white;fill-opacity:1;stroke:none;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+           x="279.64514"
+           y="-100.79608"
+           id="text2680-3"
+           transform="scale(1.0129725,0.98719363)"><tspan
+             sodipodi:role="line"
+             id="tspan2678-5"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40.9548645px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:white;stroke-width:0.4343766px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             x="279.64514"
+             y="-100.79608">!</tspan></text>
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-725.28025,-864.1969)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:89.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+         id="flowRoot2074-6-2-6"
+         xml:space="preserve"><flowRegion
+           style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+           id="flowRegion2076-8-2-2"><rect
+             style="line-height:89.99999762%;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+             y="3119.8582"
+             x="2326"
+             height="117.51245"
+             width="353.24048"
+             id="rect2078-7-4-9" /></flowRegion><flowPara
+           id="flowPara2084-0-9-1"
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Get more infos on YODA, a template and example datasets</flowPara><flowPara
+           id="flowPara2651"
+           style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:89.99999762%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">at https://github.com/myyoda</flowPara></flowRoot>      <image
+         width="31.75"
+         height="31.75"
+         preserveAspectRatio="none"
+         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAABjCAYAAACPO76VAAAABHNCSVQICAgIfAhkiAAAAhFJREFU eJzt3cFOxDAMRdEB8f+/DCvQIFFhx3Zyp7pnXdqC5ac0TcPjIUmSJEmSJJ3xtvAzn+138fs+Iue/ Or7rPF1Sf9/3gRvQIosB8lH8+ZWY+9YVC5HIyl73yO9lZ4BYDJBqTD2baP+rCLqKo0hkZe9hOtZ+ 2BkgFgOkM6YmZB/osqOplnjpYmeAWAwQYkxFouPqmOm5plF2BojFAOmMqa6RSWV+KfJwl42vbSMu OwPEYoBUY2rniGXiATByrW3sDBCLAbISU9Oji+ybu4nrHmFngFgMkM51UzsXAEzHV2Ut1jPXTb0q iwEyNYLoiqZIJHYt75y4hxQ7A8RigFRjqhIFE3NHp970uW7qbiwGyNTHMpG4mDjmWVcMVt42ptgZ IBYD5OS0cVfsVJZ0Tn/359zUq7IYICtv+rpavmtRQVfUVkZlzk3djcUA2TGFXnlwi5wzez+R6x5Z AmpngFgMEMqbvon4qkTlxFzZv+wMEIsBsnvdFGF/p+P7Sl2xM0AsBsjxldd/yD7c0Y5fZmeAWAyQ 6hR6l4lPhrOOb/BiZ4BYDBDi7p1d09fZ2Olakb7MzgCxGCCvtHtn5LrZXTpRe1LZGSAWA4S+LV7X xzjT528ZZdkZIBYDhBhTFTujyU+P78xigNxh986J9VGRKGt/YLQzQCwGCP3/9HUtGJj44KV9Ls7O ALEYkiRJkiRJkh5fouRyrtfHEnwAAAAASUVORK5CYII= "
+         id="image2606"
+         x="-28.310417"
+         y="-45.635414" />
     </g>
   </g>
 </svg>
