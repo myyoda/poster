@@ -10314,6 +10314,6 @@
              width="673.8728"
              id="rect3366" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'"
-           id="flowPara3370">Can publish datasets to many services, e.g. GitHub, FigShare, SSH-webserver. Popular web storage services, such as Dropbox, Box.com, and Amazon S3, can be used, optionally with full client-side encryption.</flowPara></flowRoot>    </g>
+           id="flowPara3370">Can publish datasets to many services, e.g. GitHub and FigShare. Popular web storage services, such as Dropbox, Box.com, and Amazon S3, can be used, optionally with full client-side encryption.</flowPara></flowRoot>    </g>
   </g>
 </svg>
