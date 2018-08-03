@@ -1710,15 +1710,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="977.55885"
-     inkscape:cy="1915.0011"
+     inkscape:cx="1568.936"
+     inkscape:cy="1261.6586"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g21113"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1359"
+     inkscape:window-width="1920"
+     inkscape:window-height="1133"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -7067,8 +7067,8 @@
       </g>
     </g>
     <path
-       style="fill:url(#linearGradient4285);fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;fill-opacity:1"
-       d="m 573.25511,-154.20372 c 16.20573,7.40833 9.3772,12.69658 9.3772,12.69658 l -0.13227,13.55436 c 24.93698,-22.82031 32.8955,-34.24496 20.9231,-40.13194 z"
+       style="fill:url(#linearGradient4285);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+       d="m 573.25511,-154.20372 c 16.20573,7.40833 7.98814,16.26846 7.98814,16.26846 l -1.02524,12.8929 c 24.93698,-22.82031 35.17753,-37.15538 23.20513,-43.04236 z"
        id="path4275"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -7810,8 +7810,8 @@
            id="flowPara2633-5-6"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.60562134px;line-height:90.40000439%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;fill:#333;fill-opacity:1;">Worry you need not about storage demand duplication and access permissions. Data/metadata access separation allows you to safely collaborate on individual aspects, far beyond Tatooine's borders.</flowPara></flowRoot>    </g>
     <path
-       style="fill:url(#linearGradient4295);fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1;fill-opacity:1"
-       d="m 498.41843,-119.30679 c 22.9526,7.54063 37.37242,-9.44532 42.13492,2.52708 v -12.36371 c -4.0349,-7.01146 -7.46897,-1.26624 -11.96689,-4.04437 z"
+       style="fill:url(#linearGradient4295);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+       d="m 498.41843,-119.30679 c 22.9526,7.54063 34.74515,-4.01723 42.40752,4.68112 l -0.14031,-11.47504 c -5.06389,-6.68405 -7.60126,-4.30895 -12.09918,-7.08708 z"
        id="path4287"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
