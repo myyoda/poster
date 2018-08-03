@@ -10158,7 +10158,7 @@
              x="213.54625"
              y="838.11621" /></flowRegion><flowPara
            id="flowPara3208"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'">Unlike Git, enables users to transparently work with nested repositories while they can remain largely ignorant of repository boundaries.</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'">Unlike Git, enables users to transparently work with nested repositories and remain largely ignorant of repository boundaries.</flowPara></flowRoot>    </g>
     <g
        id="g3254"
        transform="translate(-4.7625,32.685756)">
@@ -10180,7 +10180,7 @@
              width="693.54034"
              id="rect3245" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'"
-           id="flowPara3249">Can capture dataset modifications by an arbitrary command execution. Able to re-execute recorded commands (optionally in</flowPara><flowPara
+           id="flowPara3249">Can capture dataset modifications from the execution of arbitrary commands. Able to re-execute recorded commands (optionally in</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'"
            id="flowPara3256">containerized environments) to aid computational reproducibility.</flowPara></flowRoot>    </g>
     <g
@@ -10226,7 +10226,7 @@
              x="213.54625"
              y="838.11621" /></flowRegion><flowPara
            id="flowPara3286"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'">Capable of managing arbitrary metadata: from unstructured key/value to schema-based (linked) data.</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'">Capable of managing arbitrary metadata, from unstructured key/value to schema-based (linked) data.</flowPara></flowRoot>    </g>
     <g
        id="g3302"
        transform="translate(205.84589,76.372999)">
@@ -10292,7 +10292,7 @@
              width="673.8728"
              id="rect3318" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'"
-           id="flowPara3322">Built-in and extensible support for metadata extraction for a range of standards, e.g. Adobe XMP, BIDS, DICOM.</flowPara></flowRoot>    </g>
+           id="flowPara3322">Built-in and extensible support for metadata extraction for a range of standards, such as Adobe XMP, BIDS, and DICOM.</flowPara></flowRoot>    </g>
     <g
        id="g3374"
        transform="translate(205.84589,159.80855)">
@@ -10314,6 +10314,6 @@
              width="673.8728"
              id="rect3366" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond'"
-           id="flowPara3370">Can publish datasets to many services, e.g. GitHub, FigShare, SSH-webserver. Popular web storage services, such as Dropbox, Box.com, Amazon S3, can be used, optionally with full client-side encryption.</flowPara></flowRoot>    </g>
+           id="flowPara3370">Can publish datasets to many services, e.g. GitHub, FigShare, SSH-webserver. Popular web storage services, such as Dropbox, Box.com, and Amazon S3, can be used, optionally with full client-side encryption.</flowPara></flowRoot>    </g>
   </g>
 </svg>
