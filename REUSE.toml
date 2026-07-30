@@ -1,0 +1,7 @@
+version = 1
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2018 Michael Hanke <michael.hanke@gmail.com>, Kyle Meyer <kyle@kyleam.com>"
+SPDX-License-Identifier = "CC-BY-4.0"
